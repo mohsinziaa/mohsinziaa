@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, and ExpressJS.**
 
-- 🥅 2022 Goal: Become an expertFull Stack Developer
+- 🥅 2022 Goal: Become an expert Full Stack Developer
 
 - 📫 How to reach me **ziamohsin8@gmail.com**
 

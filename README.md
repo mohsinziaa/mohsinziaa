@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://mohsinziaa.io)
 # Hello there👋, i'm Mohsin Zia
-<img align="right" alt="Ci\jng" width="250" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
+<img align="right" alt="Ci\ng" width="250" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
 <h3 align="left">A passionate Full Stack Developer and computer software enthusiast.</h3>
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, and ExpressJS.**

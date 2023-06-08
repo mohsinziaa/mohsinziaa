@@ -2,7 +2,7 @@
   
 <br><br>
 # Hello there👋, i'm Mohsin Zia
-<img align="right" alt="Codinndceg" width="250" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
+<img align="right" alt="Codinnceg" width="250" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
 <h3 align="left">A passionate Full Stack Developer and computer software enthusiast.</h3>
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, and ExpressJS.**

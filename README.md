@@ -3,7 +3,7 @@
 <img align="right" alt="Codinndceg" width="250" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
 <h3 align="left">A passionate Full Stack Developer and computer software enthusiast.</h3>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, and ExpressJS.**
+- 🌱 I’m an experienced Full-Stack Developer with over 7 years.
 
 - 📫 How to reach me **ziamohsin8@gmail.com**
 

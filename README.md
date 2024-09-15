@@ -161,47 +161,6 @@ I enjoy learning new technologies and exploring tech.
     title="Repobeats analytics image"
   />
 
-  [![Forkers repo roster for
-  @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
-  [![Repography](https://reporoster.com/stars/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
-
-  <details>
-    <summary>
-      <img
-        src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true"
-        width="10"
-      />&nbsp;&nbsp;GitHub Star History for KenanGain&nbsp;&nbsp;<img
-        src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true"
-        width="12"
-      />
-    </summary>
-
-    <h2>Star History Chart</h2>
-    <a href="https://star-history.com/#KenanGain/KenanGain&Date">
-      <img
-        alt="Star History Chart"
-        src="https://api.star-history.com/svg?repos=KenanGain/KenanGain&type=Date&theme=dark"
-      />
-    </a>
-  </details>
-
-  <br />
-  <details>
-    <summary style="font-size: 1.17em; font-weight: bold">
-      🏆 GitHub Profile Trophy
-    </summary>
-    <br />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=KenanGain&theme=radical&no-frame=false&no-bg=false&margin-w=4"
-      alt="GitHub Profile Trophy"
-    />
-    <img
-      src="https://stats.dooboo.io/api/github-trophies?login=KenanGain"
-      alt="GitHub Trophies for KenanGain"
-    />
-  </details>
-</div>
-
 <br />
 
 <h1 align="center">

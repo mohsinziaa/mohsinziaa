@@ -21,16 +21,17 @@
 
 <br />
 
-<h2 align="center">🚀 About Me</h2>
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
-Computing, Artificial Intelligence/Machine Learning, and high-quality streaming
-technologies. With a proven track record of driving innovation, I am committed
-to leveraging advanced AI solutions to boost productivity and foster creative
-problem-solving in technology. My passion for pushing the boundaries of modern
-technology equips me to deliver exceptional results in complex and dynamic
-environments.
+<br><br><br>
+📍I am Mohsin from Pakistan, and I do backend development.
+I enjoy learning new technologies and exploring tech.
 
+- 🔭 I’m working on Building web apps using Java tech stack.
+- 🌱 I’m currently learning Java and exploring the Spring framework family.
+- 📫 Reach me @ ziamohsin8@gmail.com
+
+<br><br>
 <h3 align="center">Git Stats</h3>
 
 <div align="center">

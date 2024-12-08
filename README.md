@@ -29,7 +29,7 @@ I enjoy learning new technologies and exploring tech.
 
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ ziamohsin8@gmail.com
+- 📫 Reach me @
 
 <br><br>
 <h3 align="center">Git Stats</h3>

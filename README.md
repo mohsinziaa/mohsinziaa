@@ -24,7 +24,7 @@
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 <br><br><br>
-📍I am Mohsin from Pakistan, and I do backend development.
+📍I am Mohsin from Pakistan, and I do full stackdevelopment.
 I enjoy learning new technologies and exploring tech.
 
 - 🔭 I’m working on Building web apps using Java tech stack.

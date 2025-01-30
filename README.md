@@ -24,12 +24,12 @@
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 <br><br><br>
-📍I am Mohsin from Pakistan, and I do full stackdevelopment.
+📍I am Mohsin from Pakistan, I do full stack Development.
 I enjoy learning new technologies and exploring tech.
 
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ ziamohsin8@gmail.com
+- 🔭 I’m working on Building web apps and desktop applications.
+- 🌱 I’m currently learning kubernetes.
+- 📫 Reach me @ mohsindotzia.com
 
 <br><br>
 <h3 align="center">Git Stats</h3>

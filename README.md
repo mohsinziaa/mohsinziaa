@@ -27,9 +27,10 @@
 📍I am Mohsin from Pakistan, I do full stack Development.
 I enjoy learning new technologies and exploring tech.
 
-- 🔭 I’m working on Building web apps and desktop applications.
+- 🔭 I’m working on Building Web and Mobile applications and providing software solutions.
 - 🌱 I’m currently learning kubernetes.
-- 📫 Reach me @ mohsindotzia.com
+- 📫 Reach me @ mohsindotzia@gmail.com
+- [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015f0bd04c59b551c4)
 
 <br><br>
 <h3 align="center">Git Stats</h3>
@@ -652,78 +653,6 @@ I enjoy learning new technologies and exploring tech.
             width="50"
             height="50"
           /><br />LlamaIndex
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<h3 align="center">AI Tools & Prompt Engineering</h3>
-<div align="center">
-  <table
-    style="
-      background-color: black;
-      color: white;
-      border: none;
-      border-radius: 15px;
-      overflow: hidden;
-    "
-  >
-    <thead>
-      <tr>
-        <th colspan="6" align="center" style="color: white">AI Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
-            width="50"
-            height="50"
-            alt="ChatGPT"
-          /><br />ChatGPT
-        </td>
-        <td align="center" style="border: none">
-          <img
-            src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png"
-            width="50"
-            height="50"
-            alt="Claude (Anthropic)"
-          /><br />Claude (Anthropic)
-        </td>
-        <td align="center" style="border: none">
-          <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-          <img
-            src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif"
-            alt="Gemini"
-            width="80"
-            height="80"
-          /><br />Google Gemini
-        </td>
-        <td align="center" style="border: none">
-          <img
-            src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-            width="50"
-            height="50"
-            alt="Hugging Face"
-          /><br />Hugging Face
-        </td>
-        <td align="center" style="border: none">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png"
-            width="80"
-            height="50"
-            alt="Meta Llama"
-          /><br />Meta Llama
-        </td>
-        <td align="center" style="border: none">
-          <img
-            src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg"
-            width="80"
-            height="50"
-            alt="Cohere"
-          /><br />Cohere
         </td>
       </tr>
     </tbody>
